@@ -86,6 +86,10 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Student, McMaster University
 - [![github-alt][github-img]](https://github.com/AaronPinto)
 
+### Adhil M Nazeer
+- Student, KTU University
+- [![github-alt][github-img]](https://github.com/adhilmuhammed2)
+
 ### Ajani Eniola
 - Instuctor , Center point Enugu
 - I am currently work on:
